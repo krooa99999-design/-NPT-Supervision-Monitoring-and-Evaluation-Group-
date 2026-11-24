@@ -3,6 +3,10 @@
  "sub": "สำนักงานเขตพื้นที่การศึกษามัธยมศึกษานครปฐม",
  "banners": [
   {
+   "url": "images/mwug8vj92vvf.jpg",
+   "title": ""
+  },
+  {
    "url": "images/mwug83r3eczj.jpg",
    "title": ""
   },
@@ -678,9 +682,7 @@
      "1001"
     ]
    ],
-   "images": [
-    "images/mwug85usqc4f.jpg"
-   ],
+   "images": [],
    "paras": []
   },
   {
