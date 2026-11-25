@@ -3,6 +3,10 @@
  "sub": "สำนักงานเขตพื้นที่การศึกษามัธยมศึกษานครปฐม",
  "banners": [
   {
+   "url": "images/mwvm8zzwqont.jpg",
+   "title": ""
+  },
+  {
    "url": "images/mwvm0780swba.jpg",
    "title": ""
   },
@@ -1155,7 +1159,7 @@
     },
     {
      "text": "สรุปข้อมูลการอบรม PISA ของครูสังกัด สพม.นครปฐม",
-     "photo": "images/mwvm6je6vjla.jpg"
+     "photo": ""
     }
    ]
   },
