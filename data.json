@@ -3,6 +3,10 @@
  "sub": "สำนักงานเขตพื้นที่การศึกษามัธยมศึกษานครปฐม",
  "banners": [
   {
+   "url": "images/mwvjnxz8fzkt.jpg",
+   "title": ""
+  },
+  {
    "url": "images/mwuhlfq495mp.jpg",
    "title": ""
   },
@@ -866,7 +870,7 @@
    "paras": []
   },
   {
-   "title": "หัว แผนที่โรงเรียนในสังกัด",
+   "title": " แผนที่โรงเรียนในสังกัด",
    "text": "https://serv.mathayom-npt.info/Bigdata/public/map.php",
    "cols": [],
    "rows": [],
